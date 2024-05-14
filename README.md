@@ -1,5 +1,6 @@
 # Ex.No:1a  			Study of Socket Programming
-
+# NAME:Mugil Raj S A
+# REG NO:212223220062
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
